@@ -1,5 +1,5 @@
 ---
-id: BP-2026-5859
+id: BP-2026-3469
 title: "MrBeast 유튜브 전략"
 type: "Training Program (The Construct)"
 category: "10_Wiki/🚀 Skills/The_Construct"
